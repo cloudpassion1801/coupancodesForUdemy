@@ -15,3 +15,4 @@ This repo is intended to supplement training courses and external projects relat
 
 # Current trainings and Discount coupans 
 |S No | Course Link | CoupanCode | Valid Untill |
+|-----|-------------|------------|--------------|
