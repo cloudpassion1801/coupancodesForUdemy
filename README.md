@@ -14,5 +14,7 @@ This repo is intended to supplement training courses and external projects relat
 
 
 # Current trainings and Discount coupans 
-|S No | Course Link | CoupanCode | Valid Untill |
-|-----|-------------|------------|--------------|
+| S.No | Course Link                                                  | CoupanCode       | Valid Untill |
+|------|--------------------------------------------------------------|------------------|--------------|
+| 1    | [Hashicorp Certified Terraform Associate 2020:Comprehensive++](https://www.udemy.com/course/hashicorp-certified-terraform-associate-comprehensive/) | DEALTOWIN        | AUG2020      |
+| 2    | [AWS Certified Cloud Practitioner 2020 TestClear in 1 attempt](https://www.udemy.com/course/aws-cloud-practitioner_2020-practice-test_clear-in-1-attempt/) | LEARNMOREFORFREE | AUG2020      |
