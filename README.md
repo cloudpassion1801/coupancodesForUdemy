@@ -8,8 +8,10 @@ This repo is intended to supplement training courses and external projects relat
 - [Click here to connect Cloud Passion Facebook page ](https://www.facebook.com/Cloud-Passion-101292228327528/)
 - [Click here view blogs of Cloud Passion ](https://medium.com/@anurag4516)
 - [Click here to connect Cloud Passion Linkedin Profile  ](https://www.linkedin.com/in/cloud-passion-79b3921b2/)
-- [Click here to connect Cloud Passion github account  ] (https://github.com/cloudpassion1801)
+- [Click here to connect Cloud Passion github account  ](https://github.com/cloudpassion1801)
 
 
 
 
+# Current trainings and Discount coupans 
+|S No | Course Link | CoupanCode | Valid Untill |
