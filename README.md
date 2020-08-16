@@ -18,3 +18,4 @@ This repo is intended to supplement training courses and external projects relat
 |------|--------------------------------------------------------------|------------------|--------------|
 | 1    | [Hashicorp Certified Terraform Associate 2020:Comprehensive++](https://www.udemy.com/course/hashicorp-certified-terraform-associate-comprehensive/) | DEALTOWIN        | AUG2020      |
 | 2    | [AWS Certified Cloud Practitioner 2020 TestClear in 1 attempt](https://www.udemy.com/course/aws-cloud-practitioner_2020-practice-test_clear-in-1-attempt/) | LEARNMOREFORFREE | AUG2020      |
+| 3 | [Hashicorp Terraform Cloud 2020 : Comprehensive ++](https://www.udemy.com/course/hashicorp-terraform-cloud-2020-comprehensive/learn/lecture/21290770?couponCode=GETFREE) | GETFREE| AUG2020 |
